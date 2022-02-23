@@ -1,0 +1,11 @@
+C:\Users\46764\source\repos\RecipeBook\obj\Debug\RecipeBook.csproj.AssemblyReference.cache
+C:\Users\46764\source\repos\RecipeBook\obj\Debug\RecipeBook.MainForm.resources
+C:\Users\46764\source\repos\RecipeBook\obj\Debug\RecipeBook.csproj.GenerateResource.cache
+C:\Users\46764\source\repos\RecipeBook\obj\Debug\RecipeBook.csproj.CoreCompileInputs.cache
+C:\Users\46764\source\repos\RecipeBook\obj\Debug\RecipeBook.FormIngredients.resources
+C:\Users\46764\source\repos\RecipeBook\obj\Debug\WorkoutTracker.Properties.Resources.resources
+C:\Users\46764\source\repos\RecipeBook\bin\Debug\WorkoutTracker.exe.config
+C:\Users\46764\source\repos\RecipeBook\bin\Debug\WorkoutTracker.exe
+C:\Users\46764\source\repos\RecipeBook\bin\Debug\WorkoutTracker.pdb
+C:\Users\46764\source\repos\RecipeBook\obj\Debug\WorkoutTracker.exe
+C:\Users\46764\source\repos\RecipeBook\obj\Debug\WorkoutTracker.pdb
